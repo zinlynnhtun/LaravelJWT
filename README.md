@@ -6,4 +6,4 @@
 
 ## 登録する,ログイン, ログアウト　と　ユーザープロフィール
 
-![Logo](https://github.com/zinlynnhtun/shopping/blob/main/assets/images/shop/banner6.jpg)
+![Logo](https://github.com/zinlynnhtun/LaravelJWT/blob/main/public/read.png)
